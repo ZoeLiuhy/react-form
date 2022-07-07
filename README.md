@@ -1,11 +1,11 @@
 # Event Registration Form/ 活動報名表單
 
 ## Contents
-- [Introduction](https://github.com/zoeliuhy/react-form/edit/main/README.md#introduction)
-- [Demo](https://github.com/zoeliuhy/react-form/edit/main/README.md#demo)
-- [Tech](https://github.com/zoeliuhy/react-form/edit/main/README.md#tech)
-- [Setup Locally](https://github.com/zoeliuhy/react-form/edit/main/README.md#setup-locally)
-- [Structure](https://github.com/zoeliuhy/react-form/edit/main/README.md#structure)
+- [Introduction](https://github.com/zoeliuhy/react-form#introduction)
+- [Demo](https://github.com/zoeliuhy/react-form#demo)
+- [Tech](https://github.com/zoeliuhy/react-form#tech)
+- [Setup Locally](https://github.com/zoeliuhy/react-form#setup-locally)
+- [Structure](https://github.com/zoeliuhy/react-form#structure)
 
 ## Introduction
 This is a form that built up with React.js. The input boxes are allowed users to enter data and if the data is invalid, the errors would show up below the inputs.
