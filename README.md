@@ -1,4 +1,4 @@
-# Event Registration/ 活動報名表單
+# Event Registration Form/ 活動報名表單
 
 ## Contents
 - [Introduction](https://github.com/zoeliuhy/react-form/edit/main/README.md#introduction)
@@ -30,7 +30,7 @@ npm install
 ```
 npm start
 ```
-3. Visit it in the browser: Open [http://localhost:3000/react-gomoku](http://localhost:3000/react-gomoku)
+3. Visit it in the browser: Open [http://localhost:3000/react-form](http://localhost:3000/react-form)
 
 ## Structure
 ```
